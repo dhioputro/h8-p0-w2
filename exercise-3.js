@@ -16,8 +16,8 @@
 "Selamat datang di Dunia Proxytia, Zero"
 "Halo Penyihir Zero, ciptakan keajaiban yang membantu kemenanganmu!"
 
-var nama = "Dhio";
-var peran = "Ksatria";
+var nama = "";
+var peran = "";
 
 if( nama && peran === "") {
     console.log(`Halo ${nama}, pilih peranmu untuk memulai game!`);

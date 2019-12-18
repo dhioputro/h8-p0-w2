@@ -1,9 +1,9 @@
 // var hari = 21; var bulan = 1; var tahun = 1945;
 //Maka hasil yang akan tampil di console adalah: '21 Januari 1945';
 
-var tanggal  = 12;
-var bulan = 5;
-var tahun =  1992;
+var tanggal  = 18;
+var bulan = 12;
+var tahun =  2019;
 
 switch(bulan) {
   case 1  : 
